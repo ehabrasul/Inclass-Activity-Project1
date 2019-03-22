@@ -1,0 +1,108 @@
+.display-1, h3 {
+    color:white;
+    font-family: cursive;
+    text-shadow: 5px 3px 1px rgb(144, 6, 29);
+    margin-top:3rem;
+}
+.modal h2 {
+    margin:1.5rem 2rem 1.5rem;
+}
+.modalHeader {
+    margin-top:3rem;
+    color:rgb(173, 27, 105);
+    font-family: cursive;
+    text-shadow: 2px 3px 3px orange;
+}
+.mainBody {
+    background-image: url(../assets/images/gradientPic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+.search-button {
+    margin: 0 0 20px 0;
+}
+.select-dropdown{
+    color:white;
+}
+.modalBox {
+    margin-top: 2rem;
+    text-align: center;
+    background: crimson !important;
+    font-size: 1.5rem !important;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+}
+label {
+    font-size: 1.25rem;
+    color:rgb(255, 255, 255);
+    text-shadow: 1px 2px 2px black;
+}
+.labelModal{
+    font-size: 1.75rem;
+    font-weight: 500;
+    text-shadow: 2px 1px 1px maroon;
+    color: orange;
+    font-family: cursive;
+}
+button {
+    text-align: center;
+    margin: 5px; 
+    text-shadow: 1px 2px 2px black;
+}
+input {
+  color:white;
+  text-shadow: 1px 2px 2px rgb(121, 8, 8); 
+}
+#mymap {
+    height: 400px;
+    margin-bottom: 4rem;
+}
+.card-header{
+    font-size: 2rem;
+    font-family: cursive;
+    color: rgb(5, 5, 5);
+    text-shadow: 2px 2px 2px white;
+}
+.border-light{
+    background-color: #fff;
+    background-position: center;
+    background-size: 33%;
+    border: 3px solid black;
+}
+#jokeGen {
+    color: rgb(5, 5, 5);
+    text-shadow: 2px 2px 2px white;
+    font-size: 1.5rem;
+}
+#jokeQ {
+    color: rgb(5, 5, 5);
+    text-shadow: 2px 2px 2px white;
+    font-size: 1.25rem;
+}
+#resultsSpace {
+    float: left;
+}
+.form-group {
+    color:#fff;
+    /* text-shadow: 2px 2px 2px rgb(29, 0, 0); */
+}
+#spinIcon {
+    display: none;
+    color:white;
+}
+.navbarMain {
+    background-image: url(../assets/images/gradientPic.jpg);
+}
+.jokes {
+    float: left;
+    margin:5px;
+    padding:10px;
+}
+
+#new-search {
+    display: none;
+}
+#restMap {
+    display:none;
+}
